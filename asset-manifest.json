@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Legalize/static/css/main.0c72057d.chunk.css",
+    "main.js": "/Legalize/static/js/main.0da9b496.chunk.js",
+    "main.js.map": "/Legalize/static/js/main.0da9b496.chunk.js.map",
+    "runtime-main.js": "/Legalize/static/js/runtime-main.c561112a.js",
+    "runtime-main.js.map": "/Legalize/static/js/runtime-main.c561112a.js.map",
+    "static/js/2.100af430.chunk.js": "/Legalize/static/js/2.100af430.chunk.js",
+    "static/js/2.100af430.chunk.js.map": "/Legalize/static/js/2.100af430.chunk.js.map",
+    "index.html": "/Legalize/index.html",
+    "precache-manifest.805dea5cab92092dbd61ef41d40b974a.js": "/Legalize/precache-manifest.805dea5cab92092dbd61ef41d40b974a.js",
+    "service-worker.js": "/Legalize/service-worker.js",
+    "static/css/main.0c72057d.chunk.css.map": "/Legalize/static/css/main.0c72057d.chunk.css.map",
+    "static/js/2.100af430.chunk.js.LICENSE.txt": "/Legalize/static/js/2.100af430.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Legalize/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/dsBuffer.bmp.png": "/Legalize/static/media/dsBuffer.bmp.bb1e3029.png",
+    "static/media/feature-tile-icon-01.svg": "/Legalize/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/Legalize/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/Legalize/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/Legalize/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/Legalize/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/Legalize/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/part-hero.png": "/Legalize/static/media/part-hero.7f7d1bc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c561112a.js",
+    "static/js/2.100af430.chunk.js",
+    "static/css/main.0c72057d.chunk.css",
+    "static/js/main.0da9b496.chunk.js"
+  ]
+}
