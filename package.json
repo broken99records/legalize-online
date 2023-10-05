@@ -1,7 +1,7 @@
 {
   "name": "legalize-online",
   "version": "0.1.0",
-  "homepage": "https://broken99records.github.io/legalize-online/",
+  "homepage": "https://broken99records.github.io/legalize-online",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
