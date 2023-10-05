@@ -109,6 +109,7 @@ In order to track visitors, you need to set an [environment variable](https://cr
 - [Nucleo](https://nucleoapp.com/)
 - [Unsplash](https://unsplash.com/)
 - [cruip](https://cruip.com/)
+- Image by <a href="https://www.freepik.com/free-vector/hand-drawn-japanese-illustration-cherry-tree-petals_31194648.htm">Freepik</a>
 
 ## Terms and License
 
