@@ -1,0 +1,76 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "type": "sedan",
+            "brand": "Toyota",
+            "model": "Camry",
+            "year": 2020,
+            "color": "silver"
+        },
+        {
+            "id": 2,
+            "type": "suv",
+            "brand": "Ford",
+            "model": "Explorer",
+            "year": 2019,
+            "color": "black"
+        },
+        {
+            "id": 3,
+            "type": "hatchback",
+            "brand": "Honda",
+            "model": "Civic",
+            "year": 2021,
+            "color": "blue"
+        },
+        {
+            "id": 4,
+            "type": "pickup",
+            "brand": "Chevrolet",
+            "model": "Silverado",
+            "year": 2018,
+            "color": "red"
+        },
+        {
+            "id": 5,
+            "type": "convertible",
+            "brand": "BMW",
+            "model": "Z4",
+            "year": 2020,
+            "color": "white"
+        },
+        {
+            "id": 6,
+            "type": "minivan",
+            "brand": "Chrysler",
+            "model": "Pacifica",
+            "year": 2021,
+            "color": "gray"
+        },
+        {
+            "id": 7,
+            "type": "coupe",
+            "brand": "Infiniti",
+            "model": "G35",
+            "year": 2005,
+            "color": "black"
+        },
+        {
+            "id": 8,
+            "type": "compact",
+            "brand": "Chevrolet",
+            "model": "Cobalt",
+            "year": 2010,
+            "color": "blue"
+        },
+        {
+            "id": 9,
+            "type": "sedan",
+            "brand": "Infiniti",
+            "model": "Q50",
+            "year": 2017,
+            "color": "white"
+        }
+    ]
+}
