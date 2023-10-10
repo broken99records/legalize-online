@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
+//import { Link } from 'react-router-dom';
 import Image from '../../elements/Image';
 
 const Logo = ({
@@ -19,14 +19,14 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <Link to="/">
+        <a href="https://legalize.carrd.co">
           <Image
             src={require('./../../../assets/images/dsBuffer.bmp.png')}
             alt="Open"
             border-radius={50}
             width={32}
             height={32} />
-        </Link>
+        </a>
       </h1>
     </div>
   );
