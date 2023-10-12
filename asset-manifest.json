@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/legalize-online/static/css/main.5952fdc3.chunk.css",
-    "main.js": "/legalize-online/static/js/main.59327b51.chunk.js",
-    "main.js.map": "/legalize-online/static/js/main.59327b51.chunk.js.map",
+    "main.css": "/legalize-online/static/css/main.645937f9.chunk.css",
+    "main.js": "/legalize-online/static/js/main.df1ddd40.chunk.js",
+    "main.js.map": "/legalize-online/static/js/main.df1ddd40.chunk.js.map",
     "runtime-main.js": "/legalize-online/static/js/runtime-main.86cb53ad.js",
     "runtime-main.js.map": "/legalize-online/static/js/runtime-main.86cb53ad.js.map",
-    "static/js/2.100af430.chunk.js": "/legalize-online/static/js/2.100af430.chunk.js",
-    "static/js/2.100af430.chunk.js.map": "/legalize-online/static/js/2.100af430.chunk.js.map",
+    "static/js/2.f52760ec.chunk.js": "/legalize-online/static/js/2.f52760ec.chunk.js",
+    "static/js/2.f52760ec.chunk.js.map": "/legalize-online/static/js/2.f52760ec.chunk.js.map",
     "index.html": "/legalize-online/index.html",
-    "precache-manifest.de62079b267ea926b4a9c42dbf3efbad.js": "/legalize-online/precache-manifest.de62079b267ea926b4a9c42dbf3efbad.js",
+    "precache-manifest.0378a3f7dc69daff2c02b5c5259058c7.js": "/legalize-online/precache-manifest.0378a3f7dc69daff2c02b5c5259058c7.js",
     "service-worker.js": "/legalize-online/service-worker.js",
-    "static/css/main.5952fdc3.chunk.css.map": "/legalize-online/static/css/main.5952fdc3.chunk.css.map",
-    "static/js/2.100af430.chunk.js.LICENSE.txt": "/legalize-online/static/js/2.100af430.chunk.js.LICENSE.txt",
+    "static/css/main.645937f9.chunk.css.map": "/legalize-online/static/css/main.645937f9.chunk.css.map",
+    "static/js/2.f52760ec.chunk.js.LICENSE.txt": "/legalize-online/static/js/2.f52760ec.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/legalize-online/static/media/illustration-section-02.63d0555d.svg",
     "static/media/dsBuffer.bmp.png": "/legalize-online/static/media/dsBuffer.bmp.bb1e3029.png",
     "static/media/feature-tile-icon-01.svg": "/legalize-online/static/media/feature-tile-icon-01.0f9928d7.svg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86cb53ad.js",
-    "static/js/2.100af430.chunk.js",
-    "static/css/main.5952fdc3.chunk.css",
-    "static/js/main.59327b51.chunk.js"
+    "static/js/2.f52760ec.chunk.js",
+    "static/css/main.645937f9.chunk.css",
+    "static/js/main.df1ddd40.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2abac9778394e2e1ab24d9b5d390d82",
+    "revision": "d3d59f43cce324f3c5d74188d8b97342",
     "url": "/legalize-online/index.html"
   },
   {
-    "revision": "2757e563a20eab22530a",
-    "url": "/legalize-online/static/css/main.5952fdc3.chunk.css"
+    "revision": "a7af55daf21a9606574e",
+    "url": "/legalize-online/static/css/main.645937f9.chunk.css"
   },
   {
-    "revision": "947cc6a99617465a545c",
-    "url": "/legalize-online/static/js/2.100af430.chunk.js"
+    "revision": "c6191a7e42518ce6c6ff",
+    "url": "/legalize-online/static/js/2.f52760ec.chunk.js"
   },
   {
     "revision": "cbd049bf82600ff81c2511e3559e86ad",
-    "url": "/legalize-online/static/js/2.100af430.chunk.js.LICENSE.txt"
+    "url": "/legalize-online/static/js/2.f52760ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2757e563a20eab22530a",
-    "url": "/legalize-online/static/js/main.59327b51.chunk.js"
+    "revision": "a7af55daf21a9606574e",
+    "url": "/legalize-online/static/js/main.df1ddd40.chunk.js"
   },
   {
     "revision": "dfa99181529a0c29ec99",

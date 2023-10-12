@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/legalize-online/precache-manifest.de62079b267ea926b4a9c42dbf3efbad.js"
+  "/legalize-online/precache-manifest.0378a3f7dc69daff2c02b5c5259058c7.js"
 );
 
 self.addEventListener('message', (event) => {
